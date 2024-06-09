@@ -1,0 +1,106 @@
+C:\Users\Red\Desktop\Programming\C# Visual Studio\WarehouseManagement (3rd)\warehouseManagement\warehouseManagement\bin\Debug\warehouseManagement.exe.config
+C:\Users\Red\Desktop\Programming\C# Visual Studio\WarehouseManagement (3rd)\warehouseManagement\warehouseManagement\bin\Debug\warehouseManagement.exe
+C:\Users\Red\Desktop\Programming\C# Visual Studio\WarehouseManagement (3rd)\warehouseManagement\warehouseManagement\bin\Debug\warehouseManagement.pdb
+C:\Users\Red\Desktop\Programming\C# Visual Studio\WarehouseManagement (3rd)\warehouseManagement\warehouseManagement\obj\Debug\warehouseManagement.csproj.AssemblyReference.cache
+C:\Users\Red\Desktop\Programming\C# Visual Studio\WarehouseManagement (3rd)\warehouseManagement\warehouseManagement\obj\Debug\warehouseManagement.Admin.resources
+C:\Users\Red\Desktop\Programming\C# Visual Studio\WarehouseManagement (3rd)\warehouseManagement\warehouseManagement\obj\Debug\warehouseManagement.Register.resources
+C:\Users\Red\Desktop\Programming\C# Visual Studio\WarehouseManagement (3rd)\warehouseManagement\warehouseManagement\obj\Debug\warehouseManagement.Login.resources
+C:\Users\Red\Desktop\Programming\C# Visual Studio\WarehouseManagement (3rd)\warehouseManagement\warehouseManagement\obj\Debug\warehouseManagement.Properties.Resources.resources
+C:\Users\Red\Desktop\Programming\C# Visual Studio\WarehouseManagement (3rd)\warehouseManagement\warehouseManagement\obj\Debug\warehouseManagement.csproj.GenerateResource.cache
+C:\Users\Red\Desktop\Programming\C# Visual Studio\WarehouseManagement (3rd)\warehouseManagement\warehouseManagement\obj\Debug\warehouseManagement.csproj.CoreCompileInputs.cache
+C:\Users\Red\Desktop\Programming\C# Visual Studio\WarehouseManagement (3rd)\warehouseManagement\warehouseManagement\obj\Debug\warehouseManagement.exe
+C:\Users\Red\Desktop\Programming\C# Visual Studio\WarehouseManagement (3rd)\warehouseManagement\warehouseManagement\obj\Debug\warehouseManagement.pdb
+C:\Users\Red\Desktop\Programming\C# Visual Studio\WarehouseManagement (3rd)\warehouseManagement\warehouseManagement\bin\Debug\MySql.Data.dll
+C:\Users\Red\Desktop\Programming\C# Visual Studio\WarehouseManagement (3rd)\warehouseManagement\warehouseManagement\obj\Debug\warehous.DA435E32.Up2Date
+C:\Users\Red\Desktop\Programming\C# Visual Studio\WarehouseManagement (3rd)\warehouseManagement\warehouseManagement\obj\Debug\warehouseManagement.CustomerPanel.resources
+C:\Users\4lanc\Downloads\warehouseManagement-main\warehouseManagement-main\warehouseManagement\warehouseManagement\bin\Debug\warehouseManagement.exe.config
+C:\Users\4lanc\Downloads\warehouseManagement-main\warehouseManagement-main\warehouseManagement\warehouseManagement\bin\Debug\warehouseManagement.exe
+C:\Users\4lanc\Downloads\warehouseManagement-main\warehouseManagement-main\warehouseManagement\warehouseManagement\bin\Debug\warehouseManagement.pdb
+C:\Users\4lanc\Downloads\warehouseManagement-main\warehouseManagement-main\warehouseManagement\warehouseManagement\obj\Debug\warehouseManagement.csproj.AssemblyReference.cache
+C:\Users\4lanc\Downloads\warehouseManagement-main\warehouseManagement-main\warehouseManagement\warehouseManagement\obj\Debug\warehouseManagement.Admin.resources
+C:\Users\4lanc\Downloads\warehouseManagement-main\warehouseManagement-main\warehouseManagement\warehouseManagement\obj\Debug\warehouseManagement.CustomerPanel.resources
+C:\Users\4lanc\Downloads\warehouseManagement-main\warehouseManagement-main\warehouseManagement\warehouseManagement\obj\Debug\warehouseManagement.Register.resources
+C:\Users\4lanc\Downloads\warehouseManagement-main\warehouseManagement-main\warehouseManagement\warehouseManagement\obj\Debug\warehouseManagement.Login.resources
+C:\Users\4lanc\Downloads\warehouseManagement-main\warehouseManagement-main\warehouseManagement\warehouseManagement\obj\Debug\warehouseManagement.Properties.Resources.resources
+C:\Users\4lanc\Downloads\warehouseManagement-main\warehouseManagement-main\warehouseManagement\warehouseManagement\obj\Debug\warehouseManagement.csproj.GenerateResource.cache
+C:\Users\4lanc\Downloads\warehouseManagement-main\warehouseManagement-main\warehouseManagement\warehouseManagement\obj\Debug\warehouseManagement.csproj.CoreCompileInputs.cache
+C:\Users\4lanc\Downloads\warehouseManagement-main\warehouseManagement-main\warehouseManagement\warehouseManagement\obj\Debug\warehous.DA435E32.Up2Date
+C:\Users\4lanc\Downloads\warehouseManagement-main\warehouseManagement-main\warehouseManagement\warehouseManagement\obj\Debug\warehouseManagement.exe
+C:\Users\4lanc\Downloads\warehouseManagement-main\warehouseManagement-main\warehouseManagement\warehouseManagement\obj\Debug\warehouseManagement.pdb
+C:\Users\JohnJ\Downloads\warehouseManagement-main (1)\warehouseManagement-main\warehouseManagement\warehouseManagement\bin\Debug\warehouseManagement.exe.config
+C:\Users\JohnJ\Downloads\warehouseManagement-main (1)\warehouseManagement-main\warehouseManagement\warehouseManagement\bin\Debug\warehouseManagement.exe
+C:\Users\JohnJ\Downloads\warehouseManagement-main (1)\warehouseManagement-main\warehouseManagement\warehouseManagement\bin\Debug\warehouseManagement.pdb
+C:\Users\JohnJ\Downloads\warehouseManagement-main (1)\warehouseManagement-main\warehouseManagement\warehouseManagement\obj\Debug\warehouseManagement.csproj.AssemblyReference.cache
+C:\Users\JohnJ\Downloads\warehouseManagement-main (1)\warehouseManagement-main\warehouseManagement\warehouseManagement\obj\Debug\warehouseManagement.Admin.resources
+C:\Users\JohnJ\Downloads\warehouseManagement-main (1)\warehouseManagement-main\warehouseManagement\warehouseManagement\obj\Debug\warehouseManagement.CustomerPanel.resources
+C:\Users\JohnJ\Downloads\warehouseManagement-main (1)\warehouseManagement-main\warehouseManagement\warehouseManagement\obj\Debug\warehouseManagement.Register.resources
+C:\Users\JohnJ\Downloads\warehouseManagement-main (1)\warehouseManagement-main\warehouseManagement\warehouseManagement\obj\Debug\warehouseManagement.Login.resources
+C:\Users\JohnJ\Downloads\warehouseManagement-main (1)\warehouseManagement-main\warehouseManagement\warehouseManagement\obj\Debug\warehouseManagement.Properties.Resources.resources
+C:\Users\JohnJ\Downloads\warehouseManagement-main (1)\warehouseManagement-main\warehouseManagement\warehouseManagement\obj\Debug\warehouseManagement.csproj.GenerateResource.cache
+C:\Users\JohnJ\Downloads\warehouseManagement-main (1)\warehouseManagement-main\warehouseManagement\warehouseManagement\obj\Debug\warehouseManagement.csproj.CoreCompileInputs.cache
+C:\Users\JohnJ\Downloads\warehouseManagement-main (1)\warehouseManagement-main\warehouseManagement\warehouseManagement\obj\Debug\warehous.DA435E32.Up2Date
+C:\Users\JohnJ\Downloads\warehouseManagement-main (1)\warehouseManagement-main\warehouseManagement\warehouseManagement\obj\Debug\warehouseManagement.exe
+C:\Users\JohnJ\Downloads\warehouseManagement-main (1)\warehouseManagement-main\warehouseManagement\warehouseManagement\obj\Debug\warehouseManagement.pdb
+C:\Users\Red\Downloads\warehouse-system-main\warehouseManagement-main\warehouseManagement\warehouseManagement\obj\Debug\warehouseManagement.csproj.AssemblyReference.cache
+C:\Users\Red\Downloads\warehouse-system-main\warehouseManagement-main\warehouseManagement\warehouseManagement\obj\Debug\warehouseManagement.Admin.resources
+C:\Users\Red\Downloads\warehouse-system-main\warehouseManagement-main\warehouseManagement\warehouseManagement\obj\Debug\warehouseManagement.CustomerPanel.resources
+C:\Users\Red\Downloads\warehouse-system-main\warehouseManagement-main\warehouseManagement\warehouseManagement\obj\Debug\warehouseManagement.Register.resources
+C:\Users\Red\Downloads\warehouse-system-main\warehouseManagement-main\warehouseManagement\warehouseManagement\obj\Debug\warehouseManagement.Login.resources
+C:\Users\Red\Downloads\warehouse-system-main\warehouseManagement-main\warehouseManagement\warehouseManagement\obj\Debug\warehouseManagement.Properties.Resources.resources
+C:\Users\Red\Downloads\warehouse-system-main\warehouseManagement-main\warehouseManagement\warehouseManagement\obj\Debug\warehouseManagement.csproj.GenerateResource.cache
+C:\Users\Red\Downloads\warehouse-system-main\warehouseManagement-main\warehouseManagement\warehouseManagement\obj\Debug\warehouseManagement.csproj.CoreCompileInputs.cache
+C:\Users\Red\Downloads\warehouse-system-main\warehouseManagement-main\warehouseManagement\warehouseManagement\obj\Debug\warehouseManagement.exe
+C:\Users\Red\Downloads\warehouse-system-main\warehouseManagement-main\warehouseManagement\warehouseManagement\obj\Debug\warehouseManagement.pdb
+C:\Users\Red\Downloads\warehouse-system-main\warehouseManagement-main\warehouseManagement\warehouseManagement\bin\Debug\warehouseManagement.exe.config
+C:\Users\Red\Downloads\warehouse-system-main\warehouseManagement-main\warehouseManagement\warehouseManagement\bin\Debug\warehouseManagement.exe
+C:\Users\Red\Downloads\warehouse-system-main\warehouseManagement-main\warehouseManagement\warehouseManagement\bin\Debug\warehouseManagement.pdb
+C:\Users\Red\Downloads\warehouse-system-main\warehouseManagement-main\warehouseManagement\warehouseManagement\bin\Debug\MySql.Data.dll
+C:\Users\Red\Downloads\warehouse-system-main\warehouseManagement-main\warehouseManagement\warehouseManagement\obj\Debug\warehous.DA435E32.Up2Date
+C:\Users\JohnJ\Downloads\warehouseManagement-main\warehouseManagement-main\warehouse-system-main\warehouseManagement-main\warehouseManagement\warehouseManagement\bin\Debug\warehouseManagement.exe.config
+C:\Users\JohnJ\Downloads\warehouseManagement-main\warehouseManagement-main\warehouse-system-main\warehouseManagement-main\warehouseManagement\warehouseManagement\bin\Debug\warehouseManagement.exe
+C:\Users\JohnJ\Downloads\warehouseManagement-main\warehouseManagement-main\warehouse-system-main\warehouseManagement-main\warehouseManagement\warehouseManagement\bin\Debug\warehouseManagement.pdb
+C:\Users\JohnJ\Downloads\warehouseManagement-main\warehouseManagement-main\warehouse-system-main\warehouseManagement-main\warehouseManagement\warehouseManagement\obj\Debug\warehouseManagement.csproj.AssemblyReference.cache
+C:\Users\JohnJ\Downloads\warehouseManagement-main\warehouseManagement-main\warehouse-system-main\warehouseManagement-main\warehouseManagement\warehouseManagement\obj\Debug\warehouseManagement.Admin.resources
+C:\Users\JohnJ\Downloads\warehouseManagement-main\warehouseManagement-main\warehouse-system-main\warehouseManagement-main\warehouseManagement\warehouseManagement\obj\Debug\warehouseManagement.CustomerPanel.resources
+C:\Users\JohnJ\Downloads\warehouseManagement-main\warehouseManagement-main\warehouse-system-main\warehouseManagement-main\warehouseManagement\warehouseManagement\obj\Debug\warehouseManagement.Received.resources
+C:\Users\JohnJ\Downloads\warehouseManagement-main\warehouseManagement-main\warehouse-system-main\warehouseManagement-main\warehouseManagement\warehouseManagement\obj\Debug\warehouseManagement.Register.resources
+C:\Users\JohnJ\Downloads\warehouseManagement-main\warehouseManagement-main\warehouse-system-main\warehouseManagement-main\warehouseManagement\warehouseManagement\obj\Debug\warehouseManagement.Login.resources
+C:\Users\JohnJ\Downloads\warehouseManagement-main\warehouseManagement-main\warehouse-system-main\warehouseManagement-main\warehouseManagement\warehouseManagement\obj\Debug\warehouseManagement.Properties.Resources.resources
+C:\Users\JohnJ\Downloads\warehouseManagement-main\warehouseManagement-main\warehouse-system-main\warehouseManagement-main\warehouseManagement\warehouseManagement\obj\Debug\warehouseManagement.csproj.GenerateResource.cache
+C:\Users\JohnJ\Downloads\warehouseManagement-main\warehouseManagement-main\warehouse-system-main\warehouseManagement-main\warehouseManagement\warehouseManagement\obj\Debug\warehouseManagement.csproj.CoreCompileInputs.cache
+C:\Users\JohnJ\Downloads\warehouseManagement-main\warehouseManagement-main\warehouse-system-main\warehouseManagement-main\warehouseManagement\warehouseManagement\obj\Debug\warehous.DA435E32.Up2Date
+C:\Users\JohnJ\Downloads\warehouseManagement-main\warehouseManagement-main\warehouse-system-main\warehouseManagement-main\warehouseManagement\warehouseManagement\obj\Debug\warehouseManagement.exe
+C:\Users\JohnJ\Downloads\warehouseManagement-main\warehouseManagement-main\warehouse-system-main\warehouseManagement-main\warehouseManagement\warehouseManagement\obj\Debug\warehouseManagement.pdb
+C:\Users\Red\Downloads\WAREHOUSE\warehouseManagement\warehouseManagement\bin\Debug\warehouseManagement.exe.config
+C:\Users\Red\Downloads\WAREHOUSE\warehouseManagement\warehouseManagement\bin\Debug\warehouseManagement.exe
+C:\Users\Red\Downloads\WAREHOUSE\warehouseManagement\warehouseManagement\bin\Debug\warehouseManagement.pdb
+C:\Users\Red\Downloads\WAREHOUSE\warehouseManagement\warehouseManagement\bin\Debug\MySql.Data.dll
+C:\Users\Red\Downloads\WAREHOUSE\warehouseManagement\warehouseManagement\obj\Debug\warehouseManagement.csproj.AssemblyReference.cache
+C:\Users\Red\Downloads\WAREHOUSE\warehouseManagement\warehouseManagement\obj\Debug\warehouseManagement.Admin.resources
+C:\Users\Red\Downloads\WAREHOUSE\warehouseManagement\warehouseManagement\obj\Debug\warehouseManagement.CustomerPanel.resources
+C:\Users\Red\Downloads\WAREHOUSE\warehouseManagement\warehouseManagement\obj\Debug\warehouseManagement.Manage.resources
+C:\Users\Red\Downloads\WAREHOUSE\warehouseManagement\warehouseManagement\obj\Debug\warehouseManagement.Received.resources
+C:\Users\Red\Downloads\WAREHOUSE\warehouseManagement\warehouseManagement\obj\Debug\warehouseManagement.Register.resources
+C:\Users\Red\Downloads\WAREHOUSE\warehouseManagement\warehouseManagement\obj\Debug\warehouseManagement.Login.resources
+C:\Users\Red\Downloads\WAREHOUSE\warehouseManagement\warehouseManagement\obj\Debug\warehouseManagement.Properties.Resources.resources
+C:\Users\Red\Downloads\WAREHOUSE\warehouseManagement\warehouseManagement\obj\Debug\warehouseManagement.csproj.GenerateResource.cache
+C:\Users\Red\Downloads\WAREHOUSE\warehouseManagement\warehouseManagement\obj\Debug\warehouseManagement.csproj.CoreCompileInputs.cache
+C:\Users\Red\Downloads\WAREHOUSE\warehouseManagement\warehouseManagement\obj\Debug\warehous.DA435E32.Up2Date
+C:\Users\Red\Downloads\WAREHOUSE\warehouseManagement\warehouseManagement\obj\Debug\warehouseManagement.exe
+C:\Users\Red\Downloads\WAREHOUSE\warehouseManagement\warehouseManagement\obj\Debug\warehouseManagement.pdb
+C:\Users\4lanc\Downloads\warehouseManagement---backend-db-main\warehouseManagement---backend-db-main\WAREHOUSE\warehouseManagement\warehouseManagement\bin\Debug\warehouseManagement.exe.config
+C:\Users\4lanc\Downloads\warehouseManagement---backend-db-main\warehouseManagement---backend-db-main\WAREHOUSE\warehouseManagement\warehouseManagement\bin\Debug\warehouseManagement.exe
+C:\Users\4lanc\Downloads\warehouseManagement---backend-db-main\warehouseManagement---backend-db-main\WAREHOUSE\warehouseManagement\warehouseManagement\bin\Debug\warehouseManagement.pdb
+C:\Users\4lanc\Downloads\warehouseManagement---backend-db-main\warehouseManagement---backend-db-main\WAREHOUSE\warehouseManagement\warehouseManagement\obj\Debug\warehouseManagement.csproj.AssemblyReference.cache
+C:\Users\4lanc\Downloads\warehouseManagement---backend-db-main\warehouseManagement---backend-db-main\WAREHOUSE\warehouseManagement\warehouseManagement\obj\Debug\warehouseManagement.Admin.resources
+C:\Users\4lanc\Downloads\warehouseManagement---backend-db-main\warehouseManagement---backend-db-main\WAREHOUSE\warehouseManagement\warehouseManagement\obj\Debug\warehouseManagement.CustomerPanel.resources
+C:\Users\4lanc\Downloads\warehouseManagement---backend-db-main\warehouseManagement---backend-db-main\WAREHOUSE\warehouseManagement\warehouseManagement\obj\Debug\warehouseManagement.Manage.resources
+C:\Users\4lanc\Downloads\warehouseManagement---backend-db-main\warehouseManagement---backend-db-main\WAREHOUSE\warehouseManagement\warehouseManagement\obj\Debug\warehouseManagement.Received.resources
+C:\Users\4lanc\Downloads\warehouseManagement---backend-db-main\warehouseManagement---backend-db-main\WAREHOUSE\warehouseManagement\warehouseManagement\obj\Debug\warehouseManagement.Register.resources
+C:\Users\4lanc\Downloads\warehouseManagement---backend-db-main\warehouseManagement---backend-db-main\WAREHOUSE\warehouseManagement\warehouseManagement\obj\Debug\warehouseManagement.Login.resources
+C:\Users\4lanc\Downloads\warehouseManagement---backend-db-main\warehouseManagement---backend-db-main\WAREHOUSE\warehouseManagement\warehouseManagement\obj\Debug\warehouseManagement.Properties.Resources.resources
+C:\Users\4lanc\Downloads\warehouseManagement---backend-db-main\warehouseManagement---backend-db-main\WAREHOUSE\warehouseManagement\warehouseManagement\obj\Debug\warehouseManagement.csproj.GenerateResource.cache
+C:\Users\4lanc\Downloads\warehouseManagement---backend-db-main\warehouseManagement---backend-db-main\WAREHOUSE\warehouseManagement\warehouseManagement\obj\Debug\warehouseManagement.csproj.CoreCompileInputs.cache
+C:\Users\4lanc\Downloads\warehouseManagement---backend-db-main\warehouseManagement---backend-db-main\WAREHOUSE\warehouseManagement\warehouseManagement\obj\Debug\warehous.DA435E32.Up2Date
+C:\Users\4lanc\Downloads\warehouseManagement---backend-db-main\warehouseManagement---backend-db-main\WAREHOUSE\warehouseManagement\warehouseManagement\obj\Debug\warehouseManagement.exe
+C:\Users\4lanc\Downloads\warehouseManagement---backend-db-main\warehouseManagement---backend-db-main\WAREHOUSE\warehouseManagement\warehouseManagement\obj\Debug\warehouseManagement.pdb
